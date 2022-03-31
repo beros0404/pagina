@@ -1,4 +1,4 @@
-const url = 'https://davidrotabor.github.io/Valen/estudiantes.json'
+const url = 'https://beros0404.github.io/pagina/JSON/estudiantes.json'
 fetch(url)
 .then( response => response.json())
 .then( data => mostrar(data))
