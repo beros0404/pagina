@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "David",
+            "apellido": "Rodriguez",
+            "inasistencias": 10
+    }, 
+    {
+        "nombre": "David",
+            "apellido": "Mejia",
+            "inasistencias": 2
+    },
+    {
+        "nombre": "Valentina",
+            "apellido": "Bernal",
+            "inasistencias": 5
+    }
+]
